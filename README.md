@@ -6,3 +6,6 @@ Notes and code for AI, math, and programming books I read.
 Title: Society of Mind
 Author: Marvin Minsky
 Published: 1988
+[Book](/SocietyOfMind/Contents.md)
+
+
